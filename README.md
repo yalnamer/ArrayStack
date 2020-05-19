@@ -1,2 +1,2 @@
 # ArrayStack
-Creating an array based stack
+Creating an array based stack.
